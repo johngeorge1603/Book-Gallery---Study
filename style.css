@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
     overflow-x: hidden;
 }
 
@@ -51,11 +54,12 @@ header h1 {
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     border: 3px solid white;
 }
 
 h4,h3 {
+    font-size: 16px;
     color: darkslategrey;
     margin: 0px;
     padding: 0px;
